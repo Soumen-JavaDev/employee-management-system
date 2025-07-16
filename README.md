@@ -64,11 +64,6 @@ employee-management-system/
 
 ---
 
-## 📸 Screenshots
-
-> *(Optional: Add screenshots here to showcase UI and functionality)*
-
----
 
 ## 🙋‍♂️ Author
 
